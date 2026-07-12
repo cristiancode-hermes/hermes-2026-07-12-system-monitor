@@ -1,0 +1,9 @@
+{
+  "name": "sysmon",
+  "version": "1.0.0",
+  "dependencies": [
+    "fmt",
+    "spdlog"
+  ],
+  "builtin-baseline": "1a795bb18ec69120d8b518c2b0a28210cdc0640c"
+}
